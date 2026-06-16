@@ -191,26 +191,9 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Fruit-Freshness-Detection/
-│
-├── README.md
-├── images/
-│   ├── banner.png
-│   ├── training.png
-│   ├── prediction.png
-│   └── webcam-demo.png
-│
-└── model/
-```
-
----
-
 ## 👨‍💻 Author
 
-**[Your Name]**
+**ErikFyz**
 
 Computer Science Student | Aspiring Software Engineer | AI & Machine Learning Enthusiast
 
@@ -220,7 +203,7 @@ This project was developed to explore practical applications of Artificial Intel
 
 ## 📄 License
 
-This project is intended for educational, research, and portfolio purposes.
+This project is open source and intended for educational, research, and portfolio purposes.
 
 ---
 
