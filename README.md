@@ -138,33 +138,6 @@ The model achieved strong classification performance during evaluation within th
 
 ---
 
-## 📷 Project Screenshots
-
-### Model Training
-
-```text
-images/
-└── training.png
-```
-
-### Prediction Results
-
-```text
-images/
-└── prediction.png
-```
-
-### Webcam Detection
-
-```text
-images/
-└── webcam-demo.png
-```
-
-> Add screenshots of your model training process, prediction interface, and webcam testing results to make the repository more attractive to employers and recruiters.
-
----
-
 ## 🔮 Future Improvements
 
 - Support multiple fruit species
