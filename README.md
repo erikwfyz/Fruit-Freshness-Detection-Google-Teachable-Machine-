@@ -1,33 +1,56 @@
-# 🍎 Fruit Freshness Detection AI Model
+<p align="center">
+  <img src="banner/banner.png" alt="Fruit Freshness Detection AI Model Banner">
+</p>
 
-An image classification system developed using **Google Teachable Machine** that automatically determines whether a fruit is **Fresh** or **Rotten** based on its visual appearance.
+<h1 align="center">
+🍎 Fruit Freshness Detection AI Model
+</h1>
 
-This project demonstrates the practical application of **Machine Learning** and **Computer Vision** in food quality assessment. The model was trained using a dataset of **500+ fruit images**, enabling it to learn distinguishing features associated with fruit freshness and spoilage.
+<p align="center">
+  <strong>Machine Learning • Computer Vision • TensorFlow.js</strong>
+</p>
+
+<p align="center">
+  An AI-powered image classification system that identifies whether a fruit is <strong>Fresh</strong> or <strong>Rotten</strong> using Google Teachable Machine.
+</p>
+
+<p align="center">
+  <a href="https://teachablemachine.withgoogle.com/models/OAEeyczuA/">
+    <img src="https://img.shields.io/badge/View-Live_Model-success?style=for-the-badge" alt="Live Model">
+  </a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Project-blue?style=for-the-badge" alt="Machine Learning Project">
+  <img src="https://img.shields.io/badge/Computer%20Vision-AI-orange?style=for-the-badge" alt="Computer Vision">
+</p>
 
 ---
 
-## 📌 Project Overview
+## 📖 Project Overview
 
-Food quality inspection is an important process in agriculture, retail, and food distribution industries. Manual inspection can be time-consuming and inconsistent. This project explores the use of Artificial Intelligence (AI) to automate the detection of fruit freshness through image recognition.
+Food quality inspection plays an important role in agriculture, retail, and food distribution industries. Traditional inspection methods often require manual effort and may be subject to human error.
 
-The model analyzes various visual characteristics, including:
+This project explores the use of **Artificial Intelligence (AI)** and **Computer Vision** to automate fruit freshness detection. The model analyzes visual characteristics from fruit images and predicts whether the fruit is **Fresh** or **Rotten**.
 
-- 🍏 Color changes
-- 🍎 Surface texture variations
-- 🍌 Signs of decay or spoilage
-- 🍊 Overall fruit appearance
+The project was developed using **Google Teachable Machine** and trained on a dataset containing over **500 labeled fruit images**.
 
-The goal is to provide a simple and accessible solution for automated fruit quality assessment.
+---
+
+## 🎯 Objectives
+
+- Develop an AI model capable of classifying fruit freshness.
+- Explore image classification techniques using Machine Learning.
+- Demonstrate practical applications of Computer Vision in food quality assessment.
+- Build a simple and accessible AI solution that can be deployed directly in a web browser.
 
 ---
 
 ## 🚀 Features
 
-- Fresh vs. Rotten fruit classification
-- AI-powered image recognition
-- Real-time prediction support through webcam input
-- Browser-based deployment using TensorFlow.js
-- Easy-to-use interface through Google Teachable Machine
+- ✅ Fresh vs. Rotten fruit classification
+- ✅ Image-based prediction
+- ✅ Real-time webcam support
+- ✅ Browser-based deployment
+- ✅ No additional software installation required
+- ✅ Easy-to-use interface
 
 ---
 
@@ -40,99 +63,148 @@ The goal is to provide a simple and accessible solution for automated fruit qual
 | Machine Learning | Image Classification |
 | Computer Vision | Image Recognition |
 | JavaScript | Web Integration |
+| HTML/CSS | User Interface |
 
 ---
 
-## 📊 Dataset Information
+## 📊 Dataset
 
 ### Training Dataset
 
-- **500+ labeled fruit images**
-- Multiple samples of:
-  - Fresh Fruits
-  - Rotten Fruits
+- Over **500+ labeled fruit images**
+- Multiple image variations
+- Different lighting conditions
+- Different viewing angles
 
-The dataset was collected and organized to expose the model to various fruit conditions and visual appearances.
+### Classification Categories
+
+| Class |
+|---------|
+| 🍏 Fresh Fruit |
+| 🥀 Rotten Fruit |
+
+The dataset was prepared to expose the model to a variety of visual conditions and improve its ability to generalize to unseen images.
 
 ---
 
-## 🎯 Model Performance
+## 📈 Model Performance
 
-The model achieved strong classification performance during testing within the Google Teachable Machine environment.
+The model achieved strong classification performance during evaluation within the Google Teachable Machine environment.
 
-> **Note:** Actual performance may vary depending on:
->
-> - Lighting conditions
-> - Camera quality
-> - Image resolution
-> - Fruit positioning
-> - Background complexity
+### Factors Affecting Accuracy
+
+- Lighting conditions
+- Camera quality
+- Image resolution
+- Fruit positioning
+- Background complexity
+- Dataset diversity
+
+> **Note:** Real-world performance may vary depending on the quality and conditions of the input image.
 
 ---
 
 ## 🔗 Live AI Model
 
-### Google Teachable Machine Model
+### Google Teachable Machine Deployment
 
-**Model Link:**
+**Access the trained model here:**
 
-https://teachablemachine.withgoogle.com/models/OAEeyczuA/
+👉 https://teachablemachine.withgoogle.com/models/OAEeyczuA/
 
 ---
 
 ## 💡 Potential Applications
 
-- Smart grocery quality inspection
-- Food waste reduction initiatives
-- Agricultural technology solutions
-- Educational AI demonstrations
-- Automated fruit sorting systems
-- Supply chain quality control
+### Agriculture
+
+- Automated crop inspection
+- Harvest quality assessment
+
+### Retail
+
+- Grocery quality control
+- Inventory monitoring
+
+### Food Industry
+
+- Food waste reduction
+- Quality assurance processes
+
+### Education
+
+- Machine Learning demonstrations
+- Computer Vision learning projects
 
 ---
 
-## 📷 Project Demonstration
+## 📷 Project Screenshots
 
-Add screenshots here to showcase:
-
-- Dataset samples
-- Model training process
-- Prediction results
-- Accuracy graphs
-- Webcam testing interface
-
-Example:
+### Model Training
 
 ```text
-docs/
-├── training.png
-├── prediction.png
-└── results.png
+images/
+└── training.png
 ```
+
+### Prediction Results
+
+```text
+images/
+└── prediction.png
+```
+
+### Webcam Detection
+
+```text
+images/
+└── webcam-demo.png
+```
+
+> Add screenshots of your model training process, prediction interface, and webcam testing results to make the repository more attractive to employers and recruiters.
 
 ---
 
 ## 🔮 Future Improvements
 
-- Support multiple fruit categories
+- Support multiple fruit species
 - Detect fruit ripeness levels
-- Expand dataset size and diversity
+- Increase dataset size and diversity
 - Develop a mobile application
 - Integrate cloud-based prediction services
-- Improve robustness under varying lighting conditions
+- Improve performance under challenging lighting conditions
+- Expand classification categories
 
 ---
 
-## 📚 What I Learned
+## 📚 Learning Outcomes
 
-Through this project, I gained practical experience in:
+Through this project, I gained hands-on experience in:
 
 - Machine Learning fundamentals
-- Image classification techniques
-- Dataset preparation and labeling
+- Dataset collection and preparation
+- Image classification
 - Model training and evaluation
 - TensorFlow.js deployment
 - AI-powered web applications
+- Computer Vision concepts
+
+---
+
+## 📂 Repository Structure
+
+```text
+Fruit-Freshness-Detection/
+│
+├── README.md
+├── images/
+│   ├── banner.png
+│   ├── training.png
+│   ├── prediction.png
+│   └── webcam-demo.png
+│
+└── model/
+```
 
 ---
 
@@ -140,16 +212,18 @@ Through this project, I gained practical experience in:
 
 **[Your Name]**
 
-A Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+Computer Science Student | Aspiring Software Engineer | AI & Machine Learning Enthusiast
 
-Feel free to explore the project and provide feedback.
+This project was developed to explore practical applications of Artificial Intelligence in food quality assessment and image classification.
 
 ---
 
 ## 📄 License
 
-This project is intended for educational and portfolio purposes.
+This project is intended for educational, research, and portfolio purposes.
 
 ---
 
+<p align="center">
 ⭐ If you found this project interesting, consider giving it a star!
+</p>
