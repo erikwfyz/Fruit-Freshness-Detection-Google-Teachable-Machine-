@@ -44,15 +44,6 @@ The project was developed using **Google Teachable Machine** and trained on a da
 
 ---
 
-## 🎯 Objectives
-
-- Develop an AI model capable of classifying fruit freshness.
-- Explore image classification techniques using Machine Learning.
-- Demonstrate practical applications of Computer Vision in food quality assessment.
-- Build a simple and accessible AI solution that can be deployed directly in a web browser.
-
----
-
 ## 🚀 Features
 
 - ✅ Fresh vs. Rotten fruit classification
