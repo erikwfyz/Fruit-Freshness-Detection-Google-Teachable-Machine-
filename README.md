@@ -34,6 +34,16 @@ The project was developed using **Google Teachable Machine** and trained on a da
 
 ---
 
+## 🔗 Live AI Model
+
+### Google Teachable Machine Deployment
+
+**Access the trained model here:**
+
+👉 https://teachablemachine.withgoogle.com/models/OAEeyczuA/
+
+---
+
 ## 🎯 Objectives
 
 - Develop an AI model capable of classifying fruit freshness.
@@ -101,16 +111,6 @@ The model achieved strong classification performance during evaluation within th
 - Dataset diversity
 
 > **Note:** Real-world performance may vary depending on the quality and conditions of the input image.
-
----
-
-## 🔗 Live AI Model
-
-### Google Teachable Machine Deployment
-
-**Access the trained model here:**
-
-👉 https://teachablemachine.withgoogle.com/models/OAEeyczuA/
 
 ---
 
