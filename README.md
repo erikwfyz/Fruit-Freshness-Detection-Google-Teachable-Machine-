@@ -30,7 +30,7 @@ Food quality inspection plays an important role in agriculture, retail, and food
 
 This project explores the use of **Artificial Intelligence (AI)** and **Computer Vision** to automate fruit freshness detection. The model analyzes visual characteristics from fruit images and predicts whether the fruit is **Fresh** or **Rotten**.
 
-The project was developed using **Google Teachable Machine** and trained on a dataset containing over **500 labeled fruit images**.
+The project was developed using **Google Teachable Machine** and trained on a dataset containing over **500+ labeled fruit images**.
 
 ---
 
