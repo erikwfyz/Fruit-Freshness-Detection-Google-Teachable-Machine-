@@ -150,19 +150,9 @@ The model achieved strong classification performance during evaluation within th
 
 ---
 
-## 👨‍💻 Author
-
-**ErikFyz**
-
-Computer Science Student | Aspiring Software Engineer | AI & Machine Learning Enthusiast
-
-This project was developed to explore practical applications of Artificial Intelligence in food quality assessment and image classification.
-
----
-
 ## 📄 License
 
-This project is open source and intended for educational, research, and portfolio purposes.
+This project is open source and intended for educational, research, and portfolio purposes. This project was developed to explore practical applications of Artificial Intelligence in food quality assessment and image classification.
 
 ---
 
